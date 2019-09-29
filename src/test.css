@@ -1,0 +1,14 @@
+body {
+    -webkit-border-radius: 1em;
+    border-radius: 1em;
+    background: cornsilk;
+
+    background-image: url('./images/logo.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.list {
+    color: #fff;
+    -webkit-border-before-width: 1em;
+}
